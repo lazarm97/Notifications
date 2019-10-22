@@ -1,0 +1,16 @@
+C:\Users\Guster\source\repos\Notification\Notification\obj\Debug\Notification.csprojAssemblyReference.cache
+C:\Users\Guster\source\repos\Notification\Notification\obj\Debug\Notification.Alert.resources
+C:\Users\Guster\source\repos\Notification\Notification\obj\Debug\Notification.Form1.resources
+C:\Users\Guster\source\repos\Notification\Notification\obj\Debug\Notification.Properties.Resources.resources
+C:\Users\Guster\source\repos\Notification\Notification\obj\Debug\Notification.csproj.GenerateResource.cache
+C:\Users\Guster\source\repos\Notification\Notification\obj\Debug\Notification.csproj.CoreCompileInputs.cache
+C:\Users\Guster\source\repos\Notification\Notification\bin\Debug\Notification.exe.config
+C:\Users\Guster\source\repos\Notification\Notification\bin\Debug\Notification.exe
+C:\Users\Guster\source\repos\Notification\Notification\bin\Debug\Notification.pdb
+C:\Users\Guster\source\repos\Notification\Notification\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Guster\source\repos\Notification\Notification\bin\Debug\System.Data.Common.dll
+C:\Users\Guster\source\repos\Notification\Notification\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Guster\source\repos\Notification\Notification\bin\Debug\TableDependency.SqlClient.dll
+C:\Users\Guster\source\repos\Notification\Notification\obj\Debug\Notification.csproj.CopyComplete
+C:\Users\Guster\source\repos\Notification\Notification\obj\Debug\Notification.exe
+C:\Users\Guster\source\repos\Notification\Notification\obj\Debug\Notification.pdb
